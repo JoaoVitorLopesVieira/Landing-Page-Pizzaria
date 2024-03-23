@@ -1,0 +1,88 @@
+
+
+
+.b{
+    background-color: aliceblue;
+}
+
+.tito{
+color: black;
+position: absolute;
+top: 200px;
+left: 400px;
+font-size: 70px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.miau{
+font-size: 60px;
+position: absolute;
+top: 250px;
+left: 490px;
+color: rgb(255, 3, 3);
+}
+
+.piza{
+position:absolute ;
+top: 150px;
+left: 800px;
+border-radius: 10%;
+}
+
+.peça{
+position: absolute;
+top: 15px;
+left: 1400px;
+font-size: 19px;
+background: rgb(255, 166, 0);
+font-family: Arial, Helvetica, sans-serif;
+border-radius: 16%;
+color: black;
+}
+
+.carda{
+position: absolute;
+top: 300px;
+left: 40px;
+background: rgb(255, 166, 0);
+border-radius: 16%;
+font-size: 19px;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+}
+
+.d{
+position: absolute;
+top: 400px;
+left: 180px;
+font-size: 24px;
+font-family: Arial, Helvetica, sans-serif;
+color: black;
+}
+
+
+
+.wa{
+    position: absolute;
+    left: 90px;
+    top: 100px;
+}
+
+
+
+
+
+.wat{
+position: absolute;
+top: 490px;
+left: 350px;
+}
+
+
+.insta{
+position: absolute;
+top: 490px;
+left: 410px;
+
+}
